@@ -9,7 +9,13 @@
     <string name="app_title">Nasai</string>
 
     <!--    Testing Ids-->
-    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
-    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!--  <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+      <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+      <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <!--   Original Ids-->
+    <string name="app_id">ca-app-pub-9166385430984549~9743235294</string>
+    <string name="banner_id">ca-app-pub-9166385430984549/9979587756</string>
+    <string name="interstitial_id">ca-app-pub-9166385430984549/8238581931</string>
+
 </resources>
