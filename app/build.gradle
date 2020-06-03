@@ -19,8 +19,8 @@ android {
         applicationId "com.sunztech.nasai"
         minSdkVersion 16
         targetSdkVersion 28
-        versionCode 7
-        versionName "1.7"
+        versionCode 8
+        versionName "1.8"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         manifestPlaceholders = [
                 onesignal_app_id: '1a0339ae-0384-444d-bb90-d45ff03054a3',
