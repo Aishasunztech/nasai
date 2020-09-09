@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845865576475",
+    "firebase_url": "https://nasai-fa06a.firebaseio.com",
+    "project_id": "nasai-fa06a",
+    "storage_bucket": "nasai-fa06a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845865576475:android:366de9dbfcf089d6b7f0be",
+        "android_client_info": {
+          "package_name": "com.sunztech.nasai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845865576475-fbesdq21atql865ien9aubhgl38rsp1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6lHdYemOMfxdNiSIIadVfnGmW4BwdqzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845865576475-fbesdq21atql865ien9aubhgl38rsp1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
